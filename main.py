@@ -1,1 +1,3 @@
 print("hello worldeee")
+def aboba():
+    ...
